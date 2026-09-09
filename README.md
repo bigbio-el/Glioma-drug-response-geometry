@@ -6,11 +6,9 @@ The analysis uses transformed glioma cells from the integrated single-cell RNA-s
 
 ## Files
 
-`gbm_drug_geometry_analysis.m`  
-Main analysis script.
+`gbm_drug_geometry_analysis.m`  - main script
 
-`inspect_glioma_loom.m`  
-Helper script for checking the structure and metadata fields of the loom file.
+`inspect_glioma_loom.m`  - helper script for checking the structure and metadata fields of the loom file
 
 ## Data
 
@@ -47,8 +45,3 @@ and
 `inspect_glioma_loom.m`
 
 in a folder of your choice.
-
-In MATLAB, change the Current Folder to the folder containing the scripts and run:
-
-```matlab
-gbm_drug_geometry_analysis
