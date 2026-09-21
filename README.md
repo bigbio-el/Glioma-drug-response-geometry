@@ -4,8 +4,8 @@ MATLAB code for **Single-cell geometry of drug responses across malignant glioma
 
 ## Files
 
-- `Glioma_drug_geometry_analysis(2).m`
-- `Inspect_glioma_loom(5).m`
+- `Glioma_drug_geometry_analysis.m`
+- `Inspect_glioma_loom.m`
 - `results/`
 
 ## Data
